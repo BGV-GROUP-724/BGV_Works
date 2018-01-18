@@ -1,0 +1,10 @@
+<config>
+    <areaThresMin>2000</areaThresMin>
+    <areaThresMax>10000</areaThresMax>
+    <vmin>10</vmin>
+    <vmax>256</vmax>
+    <smin>10</smin>
+    <mode>video</mode>
+    <video_dir>hover1.avi</video_dir>
+    <timeThres>10</timeThres>
+</config>

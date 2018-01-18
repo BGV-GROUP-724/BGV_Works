@@ -1,0 +1,7 @@
+<va_db>
+    <ip>localhost</ip>
+    <port>3306</port>
+    <username>root</username>
+    <password>12345</password>
+    <dbname>new_schema</dbname>
+</va_db>

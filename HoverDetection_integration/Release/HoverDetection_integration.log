@@ -1,0 +1,35 @@
+************** Parse Params *********************
+Current directory : D:\vrlab\HoverDetection\HoverDetection_single_target\HoverDetection_integration\Release\
+Min Threshold of area of target : 2000
+Max Threshold of area of target : 10000
+vmin : 10
+vmax : 256
+smin : 10
+mode  : video
+path of video  : hover1.avi
+time thres : 10
+Get params successful.
+************************************************************
+************** Parse Database Config *********************
+<cam><cameraId>VIDEO15-1</cameraId><ipcheight>288</ipcheight><ipcwidth>352</ipcwidth><areas><area id="b9631628-dccd-43a6-a47b-0e6f3bf7cbbe"><areaType>3</areaType><pointInfo>&lt;VList&gt;&lt;V&gt;0.5 0.1&lt;/V&gt;&lt;V&gt;0.85 0.6&lt;/V&gt;&lt;/VList&gt;</pointInfo><thres>1.0</thres><valid>1</valid></area></areas><cameraIp>192.168.1.54</cameraIp><cameraPort>8000</cameraPort><cameraLoginName>admin</cameraLoginName><cameraLoginPassword>12345</cameraLoginPassword><cameraChannel>1</cameraChannel><streamType>1</streamType></cam>
+
+********************* Camera infomation *******************
+cameraID : VIDEO15-1
+height : 288
+width : 352
+area id : b9631628-dccd-43a6-a47b-0e6f3bf7cbbe
+area type : 3
+0.5 0.1
+0.85 0.6
+176 28.8
+299.2 172.8
+threshold : 1.0
+valid : 1
+cameraIp : 192.168.1.54
+cameraPort : 8000
+cameraLoginName : admin
+cameraLoginPassword : 12345
+cameraChannel : 1
+streamType : 1
+Get config successful.
+************************************************************
